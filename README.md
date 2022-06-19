@@ -1,5 +1,5 @@
 ![Made-love][made-love-shield]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]](https://linkedin.com/daniel-verdu-torres) 
 
 # HuggingFace_xray_image_classification
 
@@ -46,7 +46,7 @@ The authors started by taking the well know ResNet architecture and iteratively 
 
 
 
-!-- MARKDOWN LINKS & IMAGES -->
+<-- MARKDOWN LINKS & IMAGES -->
 [linkedin-url]: https://linkedin.com/daniel-verdu-torres
 [github-url]: https://github.com/davertor
 
