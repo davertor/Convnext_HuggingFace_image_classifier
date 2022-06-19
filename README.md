@@ -46,7 +46,7 @@ The authors started by taking the well know ResNet architecture and iteratively 
 
 
 
-<-- MARKDOWN LINKS & IMAGES -->
+<!--  MARKDOWN LINKS & IMAGES -->
 [linkedin-url]: https://linkedin.com/daniel-verdu-torres
 [github-url]: https://github.com/davertor
 
@@ -54,5 +54,5 @@ The authors started by taking the well know ResNet architecture and iteratively 
 [license-shield]: https://img.shields.io/badge/License-GNU-brightgreen.svg?style=for-the-badge
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-darkblue.svg?style=for-the-badge&logo=linkedin
 [github-shield]: https://img.shields.io/badge/-Github-black.svg?style=for-the-badge&logo=github
-[twitter-shield]: https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter
+[twitter-shield]: https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter 
 
