@@ -1,9 +1,11 @@
 ![Made-love][made-love-shield]
 [![LinkedIn][linkedin-shield]](https://linkedin.com/daniel-verdu-torres) 
 
-# HuggingFace_xray_image_classification
+#  Convnext_image_classifier
 
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TReRteaWS7sFLJmdiH7LpSkjMS7dDL-2?usp=sharing)
+
+![Dataset](food_example.PNG)
 
 The idea behind this project is to develop an image classifier using HuggingFace framework for its ease to implement transformer or other novel models that are SOTA for lots of different tasks related with images.
 
